@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11134" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="17">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11106"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="16">
+            <objects>
+                <navigationController id="17" sceneMemberID="viewController" definesPresentationContext="YES">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="19">
+                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue id="480" destination="246" kind="relationship" relationship="rootViewController"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="20" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-466" y="-26"/>
+        </scene>
+        <scene sceneID="136">
+            <objects>
+                <tableViewController id="137" sceneMemberID="viewController" customClass="JourneyTableController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="138">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="141" customClass="SectionCell">
+                                <rect key="frame" x="0.0" y="28" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="141" id="142">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="239" customClass="SectionCell" style="IBUITableViewCellStyleDefault" textLabel="689" rowHeight="78" detailTextLabel="688" imageView="690">
+                                <rect key="frame" x="0.0" y="72" width="320" height="78"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="239" id="240" customClass="SectionCell">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="77"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="689">
+                                            <rect key="frame" x="108" y="0.0" width="196" height="77"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" image="train.png" id="690" clipsSubviews="YES">
+                                            <rect key="frame" x="16" y="0.0" width="77" height="77"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </imageView>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="buttonCel" destination="240" id="name-outlet-240"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="137" id="139"/>
+                            <outlet property="delegate" destination="137" id="140"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="143" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1129" y="-63"/>
+        </scene>
+        <scene sceneID="245">
+            <objects>
+                <viewController id="246" sceneMemberID="viewController" customClass="HomeTableController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="243"/>
+                        <viewControllerLayoutGuide type="bottom" id="244"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="247">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="488" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="train.png">
+                                <rect key="frame" x="69" y="83" width="182" height="115"/>
+                            </imageView>
+                        </subviews>
+                    </view>
+                    <navigationItem title="Accueil" id="479" key="navigationItem"/>
+                    <connections>
+                        <outlet property="image" destination="488" id="name-outlet-488"/>
+                        <segue id="779" destination="676" kind="show"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="248" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="30" y="-33"/>
+        </scene>
+        <scene sceneID="675">
+            <objects>
+                <viewController id="676" sceneMemberID="viewController" customClass="JourneyTableController" useStoryboardIdentifierAsRestorationIdentifier="YES" storyboardIdentifier="journey">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="673"/>
+                        <viewControllerLayoutGuide type="bottom" id="674"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="677">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="680" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="train.png">
+                                <rect key="frame" x="68" y="83" width="182" height="115"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="681" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="52" y="217" width="217" height="51"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleColor" colorSpace="calibratedWhite" white="1" alpha="1"/>
+                                </state>
+                                <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
+                                    <color key="backgroundColor" colorSpace="calibratedRGB" red="0.12941176470588237" green="0.58823529411764708" blue="0.95294117647058818" alpha="1"/>
+                                </variation>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Départ dans ... Arrivée à ..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="682" translatesAutoresizingMaskIntoConstraints="NO" numberOfLines="2" fixedFrame="YES">
+                                <rect key="frame" x="76" y="276" width="167" height="48"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="0.50196078431372548" green="0.50196078431372548" blue="0.50196078431372548" alpha="1"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="680"/>
+                                <exclude reference="681"/>
+                                <exclude reference="682"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="680"/>
+                                <include reference="681"/>
+                                <include reference="682"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="depArrLbl" destination="682" id="name-outlet-682"/>
+                        <outlet property="stationBtn" destination="681" id="name-outlet-681"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="678" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="553" y="-45"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+    <resources>
+        <image name="train.png" width="512" height="512"/>
+        <image name="bus.png" width="512" height="512"/>
+        <image name="walk.png" width="512" height="512"/>
+    </resources>
+</document>

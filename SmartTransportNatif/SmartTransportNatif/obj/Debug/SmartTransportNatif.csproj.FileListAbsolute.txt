@@ -1,0 +1,132 @@
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll.config
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.pdb
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.csproj.App.config
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.csprojResolveAssemblyReference.cache
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.dll
+C:\Users\Adriano.PC-Adriano-HEFR\documents\visual studio 2017\Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll.config
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.xml
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.pdb
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.csproj.App.config
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.dll
+C:\Visual Studio Projects\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll.config
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\SmartTransportNatif.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\MvvmCross.Platform.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\MvvmCross.Plugins.File.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\MvvmCross.Platform.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\MvvmCross.Plugins.File.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Newtonsoft.Json.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Data.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Extensions.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Net.Http.Primitives.xml
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Xml.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Numerics.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Core.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\System.Transactions.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Data.Tds.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\bin\Debug\Mono.Security.pdb
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.csproj.App.config
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.csprojResolveAssemblyReference.cache
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.dll
+C:\SmartTransportNatif\SmartTransportNatif\SmartTransportNatif\obj\Debug\SmartTransportNatif.pdb

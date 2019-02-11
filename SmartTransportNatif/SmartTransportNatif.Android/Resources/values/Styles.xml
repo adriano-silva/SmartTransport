@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!-- the theme applied to the application or activity -->
+  <style name="CustomActionBarTheme"
+         parent="@android:style/Theme.Holo.Light">
+    <item name="android:actionBarStyle">@style/MyActionBar</item>
+  </style>
+  <!-- ActionBar styles -->
+  <style name="MyActionBar"
+         parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    <item name="android:background">#2196F3</item>
+  </style>
+  <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:colorPrimary">@color/colorBlue</item>
+    <item name="android:statusBarColor">@color/colorBlue</item>
+  </style>
+</resources>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SmartTransportNatif.Droid.AddActivity">
+    <Position X="4" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAQAAEAAAAAAAAAACAEAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>AddActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.JourneyActivity">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAAIAARBZAAAAAAAAACAAAAAAAIAAAQAAAAA=</HashCode>
+      <FileName>JourneyActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.MainActivity">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAAAAAAAgAIAAAAAAAgCAAgAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.MainApplication" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAMAAAIAAAAAgAAAAAAAACAAAAAAAAAAAIAEEAA=</HashCode>
+      <FileName>MainApplication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.MapsActivity">
+    <Position X="8.75" Y="0.5" Width="3" />
+    <NestedTypes>
+      <Class Name="SmartTransportNatif.Droid.MapsActivity.OnMapReadyClass" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MapsActivity.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAEABAAACAIAAAACAQAEAAAKAAAQAAAAg=</HashCode>
+      <FileName>MapsActivity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.SharedObjects">
+    <Position X="4" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAQAQAAAAAAAABAAAAAAAAAIAEAAAAAAAA=</HashCode>
+      <FileName>SharedObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Droid.Services.WalkingService">
+    <Position X="0.5" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAWAAAAAABAIAIAQAAEGgEACiAAAAABIAgCAAAAoA=</HashCode>
+      <FileName>Services\WalkingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plugin.Geolocator.Abstractions.Position">
+    <Position X="7" Y="5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

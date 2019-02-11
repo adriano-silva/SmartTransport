@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SmartTransportNatif.Connection">
+    <Position X="4.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAAAAAAAAAAAAAgABAEAQAAAAEAABAAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="from" />
+      <Property Name="to" />
+      <Property Name="service" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Coordinate">
+    <Position X="14" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Coordinate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Journey">
+    <Position X="14.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAQAACAAAAAAgADAAGEAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Journey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Worker">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAMQAAAAAIAQAAAABAIAAAAAAEAAAFAAAAFAAjAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Prognosis">
+    <Position X="3" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAQAAAAAAAAAAAAIBAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Prognosis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Route">
+    <Position X="10.25" Y="5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAIAAAAQAAABAAAAAAAACACAAgAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="bounds" />
+      <Property Name="overview_polyline" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.RootObjectDirection">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Northeast">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Southwest">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Bounds">
+    <Position X="14.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Distance">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Duration">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.EndLocation">
+    <Position X="8.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.StartLocation">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Polyline">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Step">
+    <Position X="5.75" Y="4.75" Width="2" />
+    <AssociationLine Name="duration" Type="SmartTransportNatif.Duration" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="6.238" />
+        <Point X="5.75" Y="7" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="end_location" Type="SmartTransportNatif.EndLocation" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="5.331" />
+        <Point X="8.25" Y="5.331" />
+        <Point X="8.25" Y="6.603" />
+        <Point X="9.875" Y="6.603" />
+        <Point X="9.875" Y="10" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="start_location" Type="SmartTransportNatif.StartLocation">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.05" Y="-0.609" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgIAAAIAAAAAAAIABAAAAAAAAEAAAAAABAAAAAAAQAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="distance" />
+      <Property Name="duration" />
+      <Property Name="end_location" />
+      <Property Name="start_location" />
+      <Property Name="polyline" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Leg">
+    <Position X="5" Y="9" Width="2" />
+    <AssociationLine Name="duration" Type="SmartTransportNatif.Duration" FixedFromPoint="true">
+      <Path>
+        <Point X="6.062" Y="9" />
+        <Point X="6.062" Y="8.296" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="start_location" Type="SmartTransportNatif.StartLocation" ManuallyRouted="true">
+      <Path>
+        <Point X="6.781" Y="9" />
+        <Point X="6.781" Y="7.511" />
+        <Point X="7.159" Y="7.511" Type="JumpStart" />
+        <Point X="7.325" Y="7.511" Type="JumpEnd" />
+        <Point X="7.422" Y="7.511" />
+        <Point X="7.422" Y="6.844" />
+        <Point X="7.75" Y="6.844" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAiAAAIAAQAAAAABBAAAAAAAAEAAAAAAAAAAgAAAQAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="distance" />
+      <Property Name="duration" />
+      <Property Name="end_location" />
+      <Property Name="start_location" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.OverviewPolyline">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Section">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAQAIAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Section.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="arrival" />
+      <Property Name="departure" />
+      <Property Name="journey" />
+      <Property Name="walk" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Walk">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Section.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Service">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Station">
+    <Position X="10.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQIAAAAAEAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="coordinate" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.Stations">
+    <Position X="0.5" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.RootObject">
+    <Position X="9" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.RootObject2">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.Stop">
+    <Position X="8.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAUQAAAAAAAAAAgKAAAAAAAAAAAAAAgAAgA=</HashCode>
+      <FileName>Stop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plugin.Geolocator.Abstractions.Position">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

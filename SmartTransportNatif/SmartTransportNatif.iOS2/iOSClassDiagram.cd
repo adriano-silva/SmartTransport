@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SmartTransportNatif.iOS2.SectionCell">
+    <Position X="0.5" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAA=</HashCode>
+      <FileName>SectionCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.View.ButtonCell">
+    <Position X="10.5" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAMAAAAAAAAA=</HashCode>
+      <FileName>View\ButtonCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadingOverlay">
+    <Position X="7" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>View\LoadingOverlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.View.SectionCell">
+    <Position X="0.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>View\SectionCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.TableJourney">
+    <Position X="10.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAABAAAAAAgAAABAAAAAAAAAAAAAQAAAEAAAACAAA=</HashCode>
+      <FileName>View\TableJourney.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="owner" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.TableSource">
+    <Position X="3.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEAAAAAAABAAAAAAAAAAAAAQEAAEAAAACAAA=</HashCode>
+      <FileName>View\TableSource.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="home" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.HomeTableController">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAABAAAAAAgAAEAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Controller\HomeTableController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.JourneyTableController">
+    <Position X="7" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAIAQAABQgAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Controller\JourneyTableController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.ViewController">
+    <Position X="0.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Controller\ViewController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTransportNatif.iOS2.Application">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

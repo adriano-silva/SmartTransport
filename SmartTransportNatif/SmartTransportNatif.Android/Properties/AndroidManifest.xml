@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="ch.heia.smarttransport">
+	<uses-sdk android:minSdkVersion="23" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<application android:label="OnTime App" android:theme="@style/MyTheme">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyB75Jpg_WKsrzDPG32QyMc_3lP2TjVp8cE" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+</manifest>

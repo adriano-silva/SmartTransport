@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlContainr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+    android:id="@+id/toolbar"
+    layout="@layout/toolbar" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/infoLabels"
+        android:layout_alignParentTop="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/stationLbl"
+            android:layout_marginTop="@dimen/mapsFirstTxt_margin_Top"
+            android:layout_marginBottom="@dimen/activity_vertical_margin" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/distanceLbl"
+            android:layout_marginBottom="@dimen/activity_vertical_margin" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/timeLbl"
+            android:layout_marginBottom="@dimen/activity_vertical_margin" />
+    </LinearLayout>
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infoLabels"
+        android:layout_alignParentBottom="true"
+        class="com.google.android.gms.maps.MapFragment"
+        android:layout_marginTop="0.0dp" />
+</RelativeLayout>
